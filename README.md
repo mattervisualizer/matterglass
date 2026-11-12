@@ -4,8 +4,8 @@
 
 the background behind the element is actually refracted through an SVG displacement map, with a soft specular rim and tint.
 
-<img width="512" height="512" alt="Снимок экрана 2026-11-12 194720" src="https://github.com/user-attachments/assets/9649f12a-9904-4f5b-ae9c-3e4ceaaef171" />
-
+<img width="512" height="512" alt="Снимок экрана 2026-11-12 194720" src="https://github.com/user-attachments/assets/9649f12a-9904-4f5b-ae9c-3e4ceaaef171" 
+<img width="740" height="640" alt="Запись 2026-11-12 195034" src="https://github.com/user-attachments/assets/d8b9fdfe-7704-4a0d-b4bc-dc32ea48ccff" />
 
 # installation
 ```bash
