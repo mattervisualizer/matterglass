@@ -14,11 +14,11 @@ npm install matterglass
 import { Glass } from 'matterglass';
 
 export function GlassyHelloBlock() {
-	return (
-		<Glass className="rounded-[32px] p-6">
-			<span>Hello, world.</span>
-		</Glass>
-	);
+  return (
+    <Glass className="rounded-[32px] p-6">
+      <span>Hello, world.</span>
+    </Glass>
+  );
 }
 ```
 `<Glass>` renders a `<div>` and accepts every regular `<div>` prop: `className`, `style`, `onClick`, `ref` etc. its shape comes from your own `border-radius`, and a background color set on it (like `bg-white/10`) becomes the tint of the glass.
