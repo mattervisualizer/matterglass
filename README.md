@@ -45,7 +45,7 @@ basically, think of it as a standard `<div>`. there won't be any conflicts or is
 |  `specularIntensity`  |  `0.71`  | rim brightness, 0–1 |
 |  `specularAdaptive`  |  `false`  | the rim brightens the background behind it instead of being drawn white |
 
-<img width="742" height="866" alt="Запись 2026-11-12 200232" src="https://github.com/user-attachments/assets/f86285e9-0f84-425d-8497-c779b325b657" />
+<img width="746" height="867" alt="image" src="https://github.com/user-attachments/assets/cbd0600e-edc4-4422-b71a-3e12ff91ed32" />
 
 glass can be nested. an inner `Glass` cuts its own hole in the outer one, so the filters do not stack.
 
