@@ -4,8 +4,11 @@
 
 the background behind the element is actually refracted through an SVG displacement map, with a soft specular rim and tint.
 
+visit demo: https://mattervisualizer.github.io/matterglass/
+
 <img width="512" height="512" alt="Снимок экрана 2026-11-12 194720" src="https://github.com/user-attachments/assets/9649f12a-9904-4f5b-ae9c-3e4ceaaef171" /> 
 <img width="740" height="640" alt="Запись 2026-11-12 195034" src="https://github.com/user-attachments/assets/d8b9fdfe-7704-4a0d-b4bc-dc32ea48ccff" />
+
 
 # installation
 ```bash
@@ -44,6 +47,8 @@ basically, think of it as a standard `<div>`. there won't be any conflicts or is
 |  `specularAngle`  |  `0`  | rotation of the light, degrees |
 |  `specularIntensity`  |  `0.71`  | rim brightness, 0–1 |
 |  `specularAdaptive`  |  `false`  | the rim brightens the background behind it instead of being drawn white |
+
+visit demo to play around with the settings in the sandbox: https://mattervisualizer.github.io/matterglass/
 
 <img width="746" height="867" alt="image" src="https://github.com/user-attachments/assets/cbd0600e-edc4-4422-b71a-3e12ff91ed32" />
 
